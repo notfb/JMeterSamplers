@@ -1,3 +1,10 @@
 Some JMeter Samplers ... Just JUnit4 atm ...
 
+Note: you will have to build the jmeter maven deps yourself atm, will add a script for this when I find the time ...
+See maven-jmeter dir auf some example poms to use on JMeter
+
 Read the fine source for more doc ...
+
+TODO: get http://wiki.apache.org/jakarta-jmeter/JMeterMavenPlugin to work
+      see http://www.ronniealleva.org/index.php/maven-jmeter-plugin/
+      see http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/
