@@ -1,0 +1,4 @@
+de.beaglesoft.jmeter
+de.beaglesoft.jmeter.config.gui
+de.beaglesoft.jmeter.sampler
+org.apache.jmeter.junit
