@@ -9,6 +9,10 @@ Note: You will have to build the jmeter maven artifacts yourself atm.
 I'm going to add a script for this when I find the time ...
 See maven-jmeter dir for some example poms to use on JMeter.
 
+maven-jmeter/notes.txt <-- read this, if you have trouble building!
+
+$ mvn clean install # to build this project
+
 Some usefull links:
 Jakrarta JMeter: http://jakarta.apache.org/jmeter/
 JMeter User Manual: http://jakarta.apache.org/jmeter/usermanual/index.html
