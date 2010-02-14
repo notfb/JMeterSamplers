@@ -26,7 +26,7 @@ import org.junit.Assert;
 /**
  * Utility class for unit testing
  * 
- * @author fbi
+ * @author Fabian Bieker
  * 
  */
 public class ReflectionUtil {

@@ -41,7 +41,7 @@ import de.beaglesoft.jmeter.sampler.JUnit4Sampler;
 
 /**
  * 
- * @author Fabian Bieker - BeagleSoft GmbH
+ * @author Fabian Bieker 
  * 
  */
 public class JUnit4TestSamplerGuiTest extends JMeterTestCase {

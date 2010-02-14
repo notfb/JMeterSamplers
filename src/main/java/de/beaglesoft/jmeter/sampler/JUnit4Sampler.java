@@ -53,7 +53,7 @@ import org.junit.runner.notification.Failure;
  * 
  * TODO: optimize <br/>
  * 
- * @author Fabian Bieker (BeagleSoft GmbH)
+ * @author Fabian Bieker 
  */
 public class JUnit4Sampler extends AbstractSampler {
 

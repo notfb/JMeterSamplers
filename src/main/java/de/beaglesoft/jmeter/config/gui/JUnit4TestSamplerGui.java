@@ -55,12 +55,13 @@ import de.beaglesoft.jmeter.sampler.JUnit4Sampler;
  * the {@link JUnit4Sampler}.
  * 
  * <p>
- * Changed to run JUnit 4 tests - largely based on Jmeter JUnitSampler.
+ * Changed to run JUnit 4 tests - largely based on JMeter JUnitSampler.
  * </p>
  * 
  * TODO: thread-safe annotations ...
  * 
- * @author Fabian Bieker (BeagleSoft GmbH)
+ * @author Fabian Bieker
+ *
  */
 public class JUnit4TestSamplerGui extends AbstractSamplerGui implements
 		ChangeListener, ActionListener {

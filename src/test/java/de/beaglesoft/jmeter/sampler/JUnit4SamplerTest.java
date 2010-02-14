@@ -28,7 +28,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author Fabian Bieker (fbi) - BeagleSoft GmbH
+ * @author Fabian Bieker 
  * 
  */
 public class JUnit4SamplerTest {

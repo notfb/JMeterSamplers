@@ -5,8 +5,8 @@ Apache License, Version 2.0
 WARNING: This code is still _alpha_
 		 -> very little doc, code incomplete ...
 
-Note: you will have to build the jmeter maven deps yourself atm, will
-add a script for this when I find the time ...
+Note: You will have to build the jmeter maven artifacts yourself atm.
+I'm going to add a script for this when I find the time ...
 See maven-jmeter dir for some example poms to use on JMeter.
 
 Some usefull links:

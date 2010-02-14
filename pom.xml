@@ -38,8 +38,7 @@
 	</developers>
 
 	<!--
-		TODO: test deployment for faster turn around - do not want to mess up
-		beagle rep.
+		TODO: setup new repo
 	-->
 	<distributionManagement>
 		<downloadUrl>http://page.mi.fu-berlin.de/bieker/maven/repo</downloadUrl>
@@ -161,7 +160,7 @@
 		</dependency>
 		-->
 
-		<!--  TODO: these deps are jmeter deps  -->
+		<!--  these deps are jmeter deps  -->
 		<!--
 
 			<dependency> <groupId>jdom</groupId> <artifactId>jdom</artifactId>
