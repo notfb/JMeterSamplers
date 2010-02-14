@@ -1,10 +1,21 @@
 Some JMeter Samplers ... Just JUnit4 atm ...
 
-Note: you will have to build the jmeter maven deps yourself atm, will add a script for this when I find the time ...
+Apache License, Version 2.0
+
+WARNING: This code is still _alpha_
+		 -> very little doc, code incomplete ...
+
+Note: you will have to build the jmeter maven deps yourself atm, will
+add a script for this when I find the time ...
 See maven-jmeter dir for some example poms to use on JMeter.
+
+Some usefull links:
+Jakrarta JMeter: http://jakarta.apache.org/jmeter/
+JMeter User Manual: http://jakarta.apache.org/jmeter/usermanual/index.html
+JMeter SVN: http://svn.apache.org/repos/asf/jakarta/jmeter/trunk/
 
 Read the fine source for more doc ...
 
-TODO: get http://wiki.apache.org/jakarta-jmeter/JMeterMavenPlugin to work
-      see http://www.ronniealleva.org/index.php/maven-jmeter-plugin/
-      see http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/
+Thanks to BeagleSoft GmbH ( http://www.beaglesoft.de/ ) for letting
+me publish this under the Apache License. Wrote some of this code,
+while I was working for them ...

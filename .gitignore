@@ -2,3 +2,6 @@ target/
 .project
 .classpath
 .settings
+jmeter-sampler.iml
+jmeter-sampler.ipr
+jmeter-sampler.iws

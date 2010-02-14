@@ -1,0 +1,18 @@
+TODO: write script to generate jmeter maven artifacts
+
+TODO: update junit dep
+
+TODO: execute one test method only (atm only complete classes)
+
+TODO: get http://wiki.apache.org/jakarta-jmeter/JMeterMavenPlugin to work
+      see http://www.ronniealleva.org/index.php/maven-jmeter-plugin/
+      see http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/
+
+TODO: setup hudson
+
+TODO: does this work? http://wiki.hudson-ci.org/display/HUDSON/Performance+Plugin ?
+
+TODO: setup sonar
+
+
+see code for more TODOs ...
