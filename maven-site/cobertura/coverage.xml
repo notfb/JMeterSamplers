@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-03.dtd">
 
-<coverage line-rate="0.0" branch-rate="0.0" version="1.9" timestamp="1266189901491">
+<coverage line-rate="0.0" branch-rate="0.0" version="1.9" timestamp="1266190156821">
 	<sources>
 		<source>--source</source>
 		<source>/Users/fb/github/JMeterSamplers/src/main/java</source>
