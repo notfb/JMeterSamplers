@@ -17,85 +17,85 @@
  */
 package de.beaglesoft.jmeter;
 
+import org.junit.Assert;
+
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-import org.junit.Assert;
-
 /**
  * Utility class for unit testing
- * 
+ *
  * @author Fabian Bieker
- * 
  */
 public class ReflectionUtil {
 
-	private ReflectionUtil() {
-		// hide constructor ...
-	}
+    private ReflectionUtil() {
+        // hide constructor ...
+    }
 
-	public static void setPrivateField(final Object obj, final String name,
-			final Object value) {
-		Assert.assertNotNull(obj);
-		Assert.assertNotNull(name);
+    public static void setPrivateField(final Object obj, final String name,
+                                       final Object value) {
+        Assert.assertNotNull(obj);
+        Assert.assertNotNull(name);
 
-		try {
-			final Field field = obj.getClass().getDeclaredField(name);
-			Assert.assertNotNull("field '" + name + "' not found", field);
-			field.setAccessible(true);
-			field.set(obj, value);
-		} catch (final IllegalAccessException ex) {
-			Assert.fail("IllegalAccessException accessing " + name);
-		} catch (final SecurityException e) {
-			Assert.fail("SecurityException accessing " + name);
-		} catch (final NoSuchFieldException e) {
-			Assert.assertNotNull("field '" + name + "' not found");
-		}
-	}
+        try {
+            final Field field = obj.getClass().getDeclaredField(name);
+            Assert.assertNotNull("field '" + name + "' not found", field);
+            field.setAccessible(true);
+            field.set(obj, value);
+        } catch (final IllegalAccessException ex) {
+            Assert.fail("IllegalAccessException accessing " + name);
+        } catch (final SecurityException e) {
+            Assert.fail("SecurityException accessing " + name);
+        } catch (final NoSuchFieldException e) {
+            Assert.assertNotNull("field '" + name + "' not found");
+        }
+    }
 
-	public static Object getPrivateField(final Object obj, final String name) {
-		Assert.assertNotNull(obj);
-		Assert.assertNotNull(name);
+    public static Object getPrivateField(final Object obj, final String name) {
+        Assert.assertNotNull(obj);
+        Assert.assertNotNull(name);
 
-		try {
-			final Field field = obj.getClass().getDeclaredField(name);
-			Assert.assertNotNull("field '" + name + "' not found", field);
-			field.setAccessible(true);
-			return field.get(obj);
-		} catch (final IllegalAccessException ex) {
-			Assert.fail("IllegalAccessException accessing " + name);
-		} catch (final SecurityException e) {
-			Assert.fail("SecurityException accessing " + name);
-		} catch (final NoSuchFieldException e) {
-			Assert.fail("field '" + name + "' not found");
-		}
-		return null;
-	}
+        try {
+            final Field field = obj.getClass().getDeclaredField(name);
+            Assert.assertNotNull("field '" + name + "' not found", field);
+            field.setAccessible(true);
+            return field.get(obj);
+        } catch (final IllegalAccessException ex) {
+            Assert.fail("IllegalAccessException accessing " + name);
+        } catch (final SecurityException e) {
+            Assert.fail("SecurityException accessing " + name);
+        } catch (final NoSuchFieldException e) {
+            Assert.fail("field '" + name + "' not found");
+        }
+        return null;
+    }
 
-	// TODO: refactor - for loop success, access by name ...
-	public static Object invokePrivateMethod(final Object obj,
-			final String name, final Object[] params) {
-		Assert.assertNotNull(obj);
-		Assert.assertNotNull(name);
-		Assert.assertNotNull(params);
+    // TODO: refactor - for loop success, access by name ...
 
-		// Go and find the private method...
-		final Method methods[] = obj.getClass().getDeclaredMethods();
-		for (int i = 0; i < methods.length; ++i) {
-			if (name.equals(methods[i].getName())) {
-				try {
-					methods[i].setAccessible(true);
-					return methods[i].invoke(obj, params);
-				} catch (final IllegalAccessException ex) {
-					Assert.fail("IllegalAccessException accessing " + name);
-				} catch (final InvocationTargetException ite) {
-					Assert.fail("InvocationTargetException accessing " + name);
-				}
-			}
-		}
-		Assert.fail("Method '" + name + "' not found");
-		return null;
-	}
+    public static Object invokePrivateMethod(final Object obj,
+                                             final String name, final Object[] params) {
+        Assert.assertNotNull(obj);
+        Assert.assertNotNull(name);
+        Assert.assertNotNull(params);
+
+        // Go and find the private method...
+        final Method methods[] = obj.getClass().getDeclaredMethods();
+        for (Method method : methods) {
+            if (name.equals(method.getName())) {
+                try {
+                    method.setAccessible(true);
+                    return method.invoke(obj, params);
+                } catch (final IllegalAccessException ex) {
+                    Assert.fail("IllegalAccessException accessing " + name);
+                } catch (final InvocationTargetException ite) {
+                    Assert.fail("InvocationTargetException accessing " + name);
+                }
+            }
+        }
+        Assert.fail("Method '" + name + "' not found");
+        return null;
+    }
 
 }
