@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/control
+END
+TestHTTPMirrorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/control/TestHTTPMirrorThread.java
+END
+TestCookieManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/control/TestCookieManager.java
+END
+TestAuthManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/control/TestAuthManager.java
+END

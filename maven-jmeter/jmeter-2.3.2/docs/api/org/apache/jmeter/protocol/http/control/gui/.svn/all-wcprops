@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui
+END
+HttpMirrorControlGui.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/HttpMirrorControlGui.html
+END
+RecordController.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/RecordController.html
+END
+AjpSamplerGui.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/AjpSamplerGui.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/package-frame.html
+END
+HttpTestSampleGui.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/HttpTestSampleGui.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/package-summary.html
+END
+WebServiceSamplerGui.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/WebServiceSamplerGui.html
+END
+HttpTestSampleGui2.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/HttpTestSampleGui2.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/package-tree.html
+END
+SoapSamplerGui.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/control/gui/SoapSamplerGui.html
+END

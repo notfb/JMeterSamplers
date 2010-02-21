@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/control/gui
+END
+BSFSamplerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/control/gui/BSFSamplerGui.java
+END
+BeanShellSamplerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/control/gui/BeanShellSamplerGui.java
+END
+JavaTestSamplerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/control/gui/JavaTestSamplerGui.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement
+END
+JTLData.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/JTLData.java
+END
+AbstractChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/AbstractChart.java
+END
+BarChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/BarChart.java
+END
+ReportPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/ReportPlan.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/Table.java
+END
+ReportPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/ReportPage.java
+END
+LineChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/LineChart.java
+END
+AbstractTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/reports/org/apache/jmeter/testelement/AbstractTable.java
+END

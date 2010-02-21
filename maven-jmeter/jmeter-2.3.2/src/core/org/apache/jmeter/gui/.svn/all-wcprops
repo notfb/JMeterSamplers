@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/MainFrame.java
+END
+GuiPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/GuiPackage.java
+END
+NamePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/NamePanel.java
+END
+AbstractJMeterGuiComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/AbstractJMeterGuiComponent.java
+END
+CommentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/CommentPanel.java
+END
+SavePropertyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/SavePropertyDialog.java
+END
+OnErrorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/OnErrorPanel.java
+END
+GUIFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/GUIFactory.java
+END
+JMeterFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/JMeterFileFilter.java
+END
+UnsharedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/UnsharedComponent.java
+END
+JMeterGUIComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/gui/JMeterGUIComponent.java
+END

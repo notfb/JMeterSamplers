@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy
+END
+Proxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/Proxy.html
+END
+ProxyControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/ProxyControl.html
+END
+Daemon.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/Daemon.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/package-frame.html
+END
+HttpRequestHdr.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/HttpRequestHdr.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/package-tree.html
+END
+HttpReplyHdr.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/http/proxy/HttpReplyHdr.html
+END

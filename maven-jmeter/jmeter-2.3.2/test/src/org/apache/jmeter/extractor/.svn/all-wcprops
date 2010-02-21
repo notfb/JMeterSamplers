@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/extractor
+END
+TestXPathExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/extractor/TestXPathExtractor.java
+END
+TestRegexExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/extractor/TestRegexExtractor.java
+END

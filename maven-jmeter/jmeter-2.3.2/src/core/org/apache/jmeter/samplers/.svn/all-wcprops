@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/Entry.java
+END
+RemoteTestListenerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/RemoteTestListenerWrapper.java
+END
+RemoteListenerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/RemoteListenerWrapper.java
+END
+RemoteSampleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/RemoteSampleListener.java
+END
+Sampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/Sampler.java
+END
+StandardSampleSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/StandardSampleSender.java
+END
+RemoteSampleListenerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/RemoteSampleListenerWrapper.java
+END
+Clearable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/Clearable.java
+END
+SampleSenderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/SampleSenderFactory.java
+END
+Remoteable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/Remoteable.java
+END
+SampleResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/SampleResult.java
+END
+SampleSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/SampleSender.java
+END
+SampleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/SampleEvent.java
+END
+BatchSampleSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/BatchSampleSender.java
+END
+StatisticalSampleResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/StatisticalSampleResult.java
+END
+RemoteSampleListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/RemoteSampleListenerImpl.java
+END
+SampleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/SampleListener.java
+END
+AbstractSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/AbstractSampler.java
+END
+StatisticalSampleSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/StatisticalSampleSender.java
+END
+SampleSaveConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/SampleSaveConfiguration.java
+END
+HoldSampleSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/samplers/HoldSampleSender.java
+END

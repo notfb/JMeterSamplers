@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui
+END
+HttpMirrorControlGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/HttpMirrorControlGui.java
+END
+RecordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/RecordController.java
+END
+AjpSamplerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/AjpSamplerGui.java
+END
+HttpTestSampleGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/HttpTestSampleGui.java
+END
+WebServiceSamplerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/WebServiceSamplerGui.java
+END
+HttpTestSampleGui2.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/HttpTestSampleGui2.java
+END
+SoapSamplerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/control/gui/SoapSamplerGui.java
+END

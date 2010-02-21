@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler
+END
+JMSSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/JMSSampler.html
+END
+MessageAdmin.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/MessageAdmin.html
+END
+PublisherSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/PublisherSampler.html
+END
+FixedQueueExecutor.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/FixedQueueExecutor.html
+END
+QueueExecutor.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/QueueExecutor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/package-frame.html
+END
+Receiver.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/Receiver.html
+END
+TemporaryQueueExecutor.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/TemporaryQueueExecutor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/package-summary.html
+END
+SubscriberSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.html
+END
+BaseJMSSampler.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/BaseJMSSampler.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/sampler/package-tree.html
+END

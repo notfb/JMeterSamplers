@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 73
+ext
+jorphan.jar
+bshclient.jar
+activation.jar
+mail.jar
+bsh-*.jar
+jms*.jar
+
+END

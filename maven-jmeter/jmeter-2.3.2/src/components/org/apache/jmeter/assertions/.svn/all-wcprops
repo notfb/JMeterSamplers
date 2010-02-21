@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions
+END
+BSFAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/BSFAssertion.java
+END
+MD5HexAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/MD5HexAssertion.java
+END
+SizeAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/SizeAssertion.java
+END
+BSFAssertionBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/BSFAssertionBeanInfo.java
+END
+BeanShellAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/BeanShellAssertion.java
+END
+ResponseAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/ResponseAssertion.java
+END
+BSFAssertionResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/BSFAssertionResources.properties
+END
+XMLAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/XMLAssertion.java
+END
+XMLSchemaAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/XMLSchemaAssertion.java
+END
+HTMLAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/HTMLAssertion.java
+END
+XPathAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/XPathAssertion.java
+END
+DurationAssertion.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/DurationAssertion.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/assertions/package.html
+END

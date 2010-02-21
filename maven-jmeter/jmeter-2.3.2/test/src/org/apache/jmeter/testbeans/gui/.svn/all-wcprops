@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/testbeans/gui
+END
+TestFieldStringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/testbeans/gui/TestFieldStringEditor.java
+END
+PackageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/testbeans/gui/PackageTest.java
+END
+TestBooleanPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/testbeans/gui/TestBooleanPropertyEditor.java
+END
+TestComboStringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/testbeans/gui/TestComboStringEditor.java
+END

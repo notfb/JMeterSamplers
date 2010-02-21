@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client
+END
+Publisher.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/Publisher.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/package-frame.html
+END
+OnMessageSubscriber.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/OnMessageSubscriber.html
+END
+InitialContextFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/InitialContextFactory.html
+END
+ReceiveSubscriber.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/ReceiveSubscriber.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/package-summary.html
+END
+ConnectionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/ConnectionFactory.html
+END
+ClientPool.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/ClientPool.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/protocol/jms/client/package-tree.html
+END

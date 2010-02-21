@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages.properties
+END
+messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_zh_CN.properties
+END
+messages_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_tr.properties
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_fr.properties
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_de.properties
+END
+messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_ja.properties
+END
+messages_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_zh_TW.properties
+END
+messages_no.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/resources/messages_no.properties
+END

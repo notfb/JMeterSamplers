@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!--
+   Licensed to the Apache Software Foundation (ASF) under one or more
+   contributor license agreements.  See the NOTICE file distributed with
+   this work for additional information regarding copyright ownership.
+   The ASF licenses this file to You under the Apache License, Version 2.0
+   (the "License"); you may not use this file except in compliance with
+   the License.  You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<!DOCTYPE document
+[
+<!ENTITY sect-num '21'>
+]>
+<document prev="regular_expressions.html" date="$Date$">
+
+<properties>
+  <title>User's Manual: Glossary</title>
+</properties>
+
+<body>
+
+<section name="&sect-num;. Glossary" anchor="glossary">
+
+<p>
+<a name="Latency"><b>Latency</b></a>. JMeter measures the latency from just before sending the request to
+just after the first response has been received. Thus the time
+includes all the processing needed to assemble the request as well as
+assembling the response, which in general will be longer than one
+byte.
+Protocol analysers (such as Wireshark) measure the time when bytes are actually sent/received over the interface.
+The JMeter time should be closer to that which is experienced by a
+browser or other application client.
+</p>
+
+<p>
+<a name="Median"><b>Median</b></a> is a number which divides the samples into two equal halves.
+Half of the samples are smaller than the median, and half are larger.
+[Some samples may equal the median.]
+This is a standard statistical measure.
+See, for example: <a href="http://en.wikipedia.org/wiki/Median">Median</a> entry at Wikipedia.
+The Median is the same as the 50<sup>th</sup> Percentile
+</p>
+
+<p>
+<a name="Percentile"><b>90% Line (90<sup>th</sup> Percentile)</b></a> is the value below which 90% of the samples fall.
+The remaining samples too at least as long as the value.
+This is a standard statistical measure.
+See, for example: <a href="http://en.wikipedia.org/wiki/Percentile">Percentile</a> entry at Wikipedia.
+</p>
+
+<p>
+<a name="Throughput"><b>Throughput</b></a> is calculated as requests/unit of time.
+The time is calculated from the start of the first sample to the end of the last sample.
+This includes any intervals between samples.   
+</p>
+
+
+</section>
+
+</body>
+</document>

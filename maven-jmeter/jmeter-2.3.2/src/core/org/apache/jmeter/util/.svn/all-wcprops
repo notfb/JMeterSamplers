@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/StringUtilities.java
+END
+CPSPauser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/CPSPauser.java
+END
+NameUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/NameUpdater.java
+END
+LocaleChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/LocaleChangeEvent.java
+END
+JMeterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/JMeterUtils.java
+END
+BeanShellTestElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BeanShellTestElement.java
+END
+BSFBeanInfoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BSFBeanInfoSupport.java
+END
+LocaleChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/LocaleChangeListener.java
+END
+NamedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/NamedObject.java
+END
+ColorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/ColorHelper.java
+END
+SlowSSLSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/SlowSSLSocket.java
+END
+SlowInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/SlowInputStream.java
+END
+JsseSSLManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/JsseSSLManager.java
+END
+BeanShellInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BeanShellInterpreter.java
+END
+SlowOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/SlowOutputStream.java
+END
+XPathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/XPathUtil.java
+END
+HttpSSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/HttpSSLProtocolSocketFactory.java
+END
+BeanShellServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BeanShellServer.java
+END
+BSFTestElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BSFTestElement.java
+END
+TidyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/TidyException.java
+END
+Calculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/Calculator.java
+END
+JMeterVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/JMeterVersion.java
+END
+BeanShellClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BeanShellClient.java
+END
+BeanShellBeanInfoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/BeanShellBeanInfoSupport.java
+END
+SSLManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/SSLManager.java
+END
+CustomX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/CustomX509TrustManager.java
+END
+SlowSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/SlowSocket.java
+END

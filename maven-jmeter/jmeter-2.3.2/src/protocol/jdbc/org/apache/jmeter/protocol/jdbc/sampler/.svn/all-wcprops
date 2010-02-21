@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler
+END
+JDBCSamplerResources_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_tr.properties
+END
+JDBCSamplerResources_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_es.properties
+END
+JDBCSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSampler.java
+END
+JDBCSamplerResources_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources_zh_TW.properties
+END
+JDBCSamplerBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerBeanInfo.java
+END
+JDBCSamplerResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSamplerResources.properties
+END

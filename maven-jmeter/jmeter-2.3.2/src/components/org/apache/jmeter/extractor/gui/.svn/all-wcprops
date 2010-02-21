@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/extractor/gui
+END
+XPathExtractorGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/extractor/gui/XPathExtractorGui.java
+END
+RegexExtractorGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/extractor/gui/RegexExtractorGui.java
+END

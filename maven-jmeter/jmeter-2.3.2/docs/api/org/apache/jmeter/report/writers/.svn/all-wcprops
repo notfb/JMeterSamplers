@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers
+END
+AbstractReportWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/AbstractReportWriter.html
+END
+HTMLReportWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/HTMLReportWriter.html
+END
+DefaultReportSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/DefaultReportSummary.html
+END
+DefaultPageSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/DefaultPageSummary.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/package-summary.html
+END
+ReportWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/ReportWriter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/package-tree.html
+END
+ReportSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/ReportSummary.html
+END
+PageSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/api/org/apache/jmeter/report/writers/PageSummary.html
+END

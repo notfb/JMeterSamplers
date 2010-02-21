@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/keystore
+END
+DefaultKeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/keystore/DefaultKeyStore.java
+END
+JmeterKeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/core/org/apache/jmeter/util/keystore/JmeterKeyStore.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/util
+END
+TestHTTPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/util/TestHTTPUtils.java
+END
+TestHTTPArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/util/TestHTTPArgument.java
+END
+TestHTTPFileArg.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/util/TestHTTPFileArg.java
+END
+TestHTTPFileArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/test/src/org/apache/jmeter/protocol/http/util/TestHTTPFileArgs.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier
+END
+ParamModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/ParamModifier.java
+END
+UserSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/UserSequence.java
+END
+UserParameterXMLErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/UserParameterXMLErrorHandler.java
+END
+AnchorModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/AnchorModifier.java
+END
+UserParameterXMLContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/UserParameterXMLContentHandler.java
+END
+ParamMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/ParamMask.java
+END
+URLRewritingModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/URLRewritingModifier.java
+END
+UserParameterXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/UserParameterXMLParser.java
+END
+UserParameterModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/UserParameterModifier.java
+END

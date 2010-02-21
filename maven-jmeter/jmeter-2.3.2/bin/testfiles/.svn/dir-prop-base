@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 72
+
+configurationTest.xml
+*.jmx.out
+Sample_Line_Graph.png
+Sample_Chart.png
+
+END

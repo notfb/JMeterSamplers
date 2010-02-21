@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler
+END
+DebugSamplerResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler/DebugSamplerResources.properties
+END
+DebugSamplerResources_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler/DebugSamplerResources_tr.properties
+END
+DebugSamplerResources_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler/DebugSamplerResources_de.properties
+END
+DebugSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler/DebugSampler.java
+END
+DebugSamplerBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler/DebugSamplerBeanInfo.java
+END
+TestAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/sampler/TestAction.java
+END

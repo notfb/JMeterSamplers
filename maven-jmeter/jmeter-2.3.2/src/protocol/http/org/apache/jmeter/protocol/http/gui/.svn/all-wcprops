@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui
+END
+AuthPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui/AuthPanel.java
+END
+CacheManagerGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui/CacheManagerGui.java
+END
+HTTPArgumentsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui/HTTPArgumentsPanel.java
+END
+HeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui/HeaderPanel.java
+END
+CookiePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui/CookiePanel.java
+END
+HTTPFileArgsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/gui/HTTPFileArgsPanel.java
+END

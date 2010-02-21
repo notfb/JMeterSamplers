@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual
+END
+jmeter_proxy_step_by_step.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/jmeter_proxy_step_by_step.pdf
+END
+include_controller_tutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/include_controller_tutorial.pdf
+END
+build-web-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-web-test-plan.html
+END
+component_reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/component_reference.html
+END
+ldapanswer_xml.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/ldapanswer_xml.html
+END
+jmeter_accesslog_sampler_step_by_step.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/jmeter_accesslog_sampler_step_by_step.pdf
+END
+build-ldap-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-ldap-test-plan.html
+END
+get-started.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/get-started.html
+END
+build-db-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-db-test-plan.html
+END
+build-adv-web-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-adv-web-test-plan.html
+END
+build-monitor-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-monitor-test-plan.html
+END
+build-jms-point-to-point-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-jms-point-to-point-test-plan.html
+END
+test_plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/test_plan.html
+END
+build-ws-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-ws-test-plan.html
+END
+build-ftp-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-ftp-test-plan.html
+END
+intro.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/intro.html
+END
+ldapops_tutor.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/ldapops_tutor.html
+END
+build-ldapext-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-ldapext-test-plan.html
+END
+glossary.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/glossary.html
+END
+regular_expressions.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/regular_expressions.html
+END
+build-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-test-plan.html
+END
+junitsampler_tutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/junitsampler_tutorial.pdf
+END
+boss.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/boss.html
+END
+build-jms-topic-test-plan.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/build-jms-topic-test-plan.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/index.html
+END
+functions.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/functions.html
+END
+best-practices.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/best-practices.html
+END
+listeners.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/listeners.html
+END
+remote-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/remote-test.html
+END
+jmeter_distributed_testing_step_by_step.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/usermanual/jmeter_distributed_testing_step_by_step.pdf
+END

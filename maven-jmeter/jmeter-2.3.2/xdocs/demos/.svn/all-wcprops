@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos
+END
+AssertionTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/AssertionTestPlan.jmx
+END
+forEachTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/forEachTestPlan.jmx
+END
+BeanShellAssertion.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/BeanShellAssertion.bsh
+END
+ProxyServerTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/ProxyServerTestPlan.jmx
+END
+LoopTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/LoopTestPlan.jmx
+END
+SimpleTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/SimpleTestPlan.jmx
+END
+AuthManagerTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/AuthManagerTestPlan.jmx
+END
+ForEachTest2.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/ForEachTest2.jmx
+END
+InterleaveTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/InterleaveTestPlan.jmx
+END
+URLRewritingExample.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/URLRewritingExample.jmx
+END
+InterleaveTestPlan2.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/InterleaveTestPlan2.jmx
+END
+HeaderManagerTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/HeaderManagerTestPlan.jmx
+END
+JMSPointToPoint.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/JMSPointToPoint.jmx
+END
+OnceOnlyTestPlan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/demos/OnceOnlyTestPlan.jmx
+END

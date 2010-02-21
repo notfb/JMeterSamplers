@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler
+END
+TCPClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler/TCPClient.java
+END
+TCPClientImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler/TCPClientImpl.java
+END
+TCPSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler/TCPSampler.java
+END

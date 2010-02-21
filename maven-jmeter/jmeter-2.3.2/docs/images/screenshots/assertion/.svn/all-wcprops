@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion
+END
+HTMLAssertion.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/HTMLAssertion.png
+END
+example1a.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/example1a.png
+END
+example1b.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/example1b.png
+END
+MD5HexAssertion.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/MD5HexAssertion.png
+END
+example1c-pass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/example1c-pass.gif
+END
+assertion.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/assertion.png
+END
+XMLSchemaAssertion.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/XMLSchemaAssertion.png
+END
+example1c-fail.gif
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/docs/images/screenshots/assertion/example1c-fail.gif
+END

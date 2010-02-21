@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs
+END
+license.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/license.xml
+END
+jmeter_irc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/jmeter_irc.xml
+END
+extending.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/extending.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/index.xml
+END
+changes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/changes.xml
+END
+changes_history.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/changes_history.xml
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/velocity.properties
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/overview.html
+END
+known_bugs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/known_bugs.xml
+END
+building.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/building.xml
+END
+nightly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/nightly.xml
+END

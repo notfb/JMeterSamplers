@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/gui
+END
+URLRewritingModifierGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/gui/URLRewritingModifierGui.java
+END
+UserParameterModifierGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/gui/UserParameterModifierGui.java
+END
+ParamModifierGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/gui/ParamModifierGui.java
+END
+AnchorModifierGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/modifier/gui/AnchorModifierGui.java
+END

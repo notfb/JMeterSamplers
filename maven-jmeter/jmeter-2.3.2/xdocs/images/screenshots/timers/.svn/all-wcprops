@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers
+END
+sync_timer.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers/sync_timer.png
+END
+beanshell_timer.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers/beanshell_timer.png
+END
+uniform_random_timer.gif
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers/uniform_random_timer.gif
+END
+constant_throughput_timer.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers/constant_throughput_timer.png
+END
+gauss_random_timer.gif
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers/gauss_random_timer.gif
+END
+constant_timer.gif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/xdocs/images/screenshots/timers/constant_timer.gif
+END

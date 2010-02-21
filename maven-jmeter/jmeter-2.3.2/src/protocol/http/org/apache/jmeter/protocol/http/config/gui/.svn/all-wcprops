@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/config/gui
+END
+MultipartUrlConfigGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/config/gui/MultipartUrlConfigGui.java
+END
+HttpDefaultsGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/config/gui/HttpDefaultsGui.java
+END
+UrlConfigGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/http/org/apache/jmeter/protocol/http/config/gui/UrlConfigGui.java
+END

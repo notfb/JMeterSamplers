@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 127
+local
+ApacheJMeter.jar
+apache-jmeter.jar
+HTTPSamplerFullTestFile.txt
+test*.txt
+*.bak
+*.csv
+*.jtl
+*.log
+*.jmx
+*.xml
+*.tmp
+*.tsv
+
+END

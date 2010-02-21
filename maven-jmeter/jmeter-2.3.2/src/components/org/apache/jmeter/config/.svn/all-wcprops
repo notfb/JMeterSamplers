@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config
+END
+CSVDataSetResources_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSetResources_de.properties
+END
+CSVDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSet.java
+END
+CSVDataSetResources_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSetResources_zh_TW.properties
+END
+CSVDataSetBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSetBeanInfo.java
+END
+CSVDataSetResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSetResources.properties
+END
+CSVDataSetResources_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSetResources_tr.properties
+END
+CSVDataSetResources_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/components/org/apache/jmeter/config/CSVDataSetResources_es.properties
+END

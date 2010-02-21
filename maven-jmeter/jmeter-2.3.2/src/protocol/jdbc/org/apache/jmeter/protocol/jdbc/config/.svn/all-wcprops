@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config
+END
+DataSourceElementResources_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_tr.properties
+END
+DataSourceElementResources_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_es.properties
+END
+DataSourceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElement.java
+END
+DataSourceElementResources_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources_zh_TW.properties
+END
+DataSourceElementBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElementBeanInfo.java
+END
+DataSourceElementResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/config/DataSourceElementResources.properties
+END

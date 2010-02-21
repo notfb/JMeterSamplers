@@ -1,0 +1,27 @@
+K 14
+subclipse:tags
+V 86
+413970,v2_2,/tags/v2_2,tag
+579003,v2_3,/tags/v2_3,tag
+598986,v2_3_1,/tags/v2_3_1,tag
+K 10
+svn:ignore
+V 153
+*.log
+build
+dist
+site
+printable_docs
+jmeter-fb.*
+.classpath
+.project
+.externalToolBuilders
+.settings
+reports
+local
+.checkstyle
+.fbwarnings
+.fbprefs
+.pmd
+
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin
+END
+jmeterw.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeterw.cmd
+END
+system.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/system.properties
+END
+httpclient.parameters
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/httpclient.parameters
+END
+mirror-server.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/mirror-server.cmd
+END
+jmeter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter.properties
+END
+BeanShellSampler.bshrc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/BeanShellSampler.bshrc
+END
+jmeter-n-r.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-n-r.cmd
+END
+upgrade.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/upgrade.properties
+END
+jmeter-n.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-n.cmd
+END
+BeanShellAssertion.bshrc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/BeanShellAssertion.bshrc
+END
+jmeter
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter
+END
+BeanShellListeners.bshrc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/BeanShellListeners.bshrc
+END
+mirror-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/mirror-server.sh
+END
+logkit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/logkit.xml
+END
+jmeter-t.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-t.cmd
+END
+jmeter-server
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-server
+END
+jmeter.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter.bat
+END
+jmeter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter.sh
+END
+jmeter-server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-server.bat
+END
+jmeter-report
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-report
+END
+users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/users.xml
+END
+BeanShellFunction.bshrc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/BeanShellFunction.bshrc
+END
+log4j.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/log4j.conf
+END
+jmeter-report.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/jmeter-report.bat
+END
+user.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/user.properties
+END
+saveservice.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/saveservice.properties
+END
+users.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/bin/users.dtd
+END

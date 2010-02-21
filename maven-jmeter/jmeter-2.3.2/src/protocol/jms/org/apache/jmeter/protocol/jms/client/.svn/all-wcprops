@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client
+END
+OnMessageSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client/OnMessageSubscriber.java
+END
+InitialContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client/InitialContextFactory.java
+END
+ReceiveSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client/ReceiveSubscriber.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client/ConnectionFactory.java
+END
+ClientPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client/ClientPool.java
+END
+Publisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/jms/org/apache/jmeter/protocol/jms/client/Publisher.java
+END

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.3-b01-101 (Apple Inc.)
+Built-By: fb
+Extension-Name:  JMeter
+Specification-Title:  Apache Jakarta JMeter
+Specification-Vendor:  Apache Software Foundation
+Implementation-Vendor:  Apache Software Foundation
+Implementation-Vendor-Id:  org.apache
+Implementation-Version: 2.3.2.20100221
+X-Compile-Source-JDK: 1.4
+X-Compile-Target-JDK: 1.4
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler
+END
+BeanShellSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler/BeanShellSampler.java
+END
+JavaSamplerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler/JavaSamplerClient.java
+END
+JavaSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler/JavaSampler.java
+END
+AbstractJavaSamplerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler/AbstractJavaSamplerClient.java
+END
+JavaSamplerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler/JavaSamplerContext.java
+END
+BSFSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/667526/jakarta/jmeter/tags/v2_3_2/src/protocol/java/org/apache/jmeter/protocol/java/sampler/BSFSampler.java
+END

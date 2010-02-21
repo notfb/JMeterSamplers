@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.2.2" timestamp="2010-02-15T00:28:47.158">
+<pmd version="4.2.2" timestamp="2010-02-21T14:14:32.461">
 <suppressedviolation filename="/Users/fb/github/JMeterSamplers/src/main/java/de/beaglesoft/jmeter/sampler/JUnit4Sampler.java" suppressiontype="annotation" msg="Avoid unused private methods such as 'getMethod(Class,String)'." usermsg=""/>
 </pmd>
