@@ -8,3 +8,5 @@ jmeter-sampler.ipr
 jmeter-sampler.iws
 jmeter-test.log
 maven-jmeter/jmeter-2.3.2/
+hudson/
+*.swp

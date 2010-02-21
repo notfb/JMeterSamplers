@@ -12,7 +12,7 @@ TODO: get http://wiki.apache.org/jakarta-jmeter/JMeterMavenPlugin to work
       see http://www.ronniealleva.org/index.php/maven-jmeter-plugin/
       see http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/
 
-TODO: setup hudson
+TODO: hudson sample setup with this project and JMeter reports (setup script?)
 
 TODO: does this work? http://wiki.hudson-ci.org/display/HUDSON/Performance+Plugin ?
 

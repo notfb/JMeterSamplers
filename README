@@ -19,6 +19,8 @@ JMeter SVN: http://svn.apache.org/repos/asf/jakarta/jmeter/trunk/
 
 Read the fine source for more doc ...
 
+If you want to use this for hudson ci have a look at src/main/scripts/setupHudson.sh .
+
 Thanks to BeagleSoft GmbH ( http://www.beaglesoft.de/ ) for letting
 me publish this under the Apache License. Wrote some of this code,
 while I was working for them ...
