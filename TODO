@@ -14,6 +14,8 @@ TODO: get http://wiki.apache.org/jakarta-jmeter/JMeterMavenPlugin to work
 
 TODO: hudson sample setup with this project and JMeter reports (setup script?)
 
+TOOD: fix coverage report
+
 TODO: does this work? http://wiki.hudson-ci.org/display/HUDSON/Performance+Plugin ?
 
 TODO: setup sonar
