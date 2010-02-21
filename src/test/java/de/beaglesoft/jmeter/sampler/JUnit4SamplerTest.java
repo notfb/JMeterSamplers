@@ -35,9 +35,7 @@ public class JUnit4SamplerTest {
     private static final String CHECK_STRING = "CHECK_STRING";
 
     /**
-     * @author Fabian Bieker (fbi)
-     *         <p/>
-     *         simple testcases to use for unit testing JUnit4Sampler
+     * simple test case that is OK, to use for unit testing JUnit4Sampler
      */
     public static class SimpleTest {
 
@@ -65,7 +63,6 @@ public class JUnit4SamplerTest {
     /**
      * simple test case that fails ...
      *
-     * @author Fabian Bieker (fbi)
      */
     public static class SimpleTestFailure extends SimpleTest {
 

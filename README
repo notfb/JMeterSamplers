@@ -6,8 +6,7 @@ WARNING: This code is still _alpha_
 		 -> very little doc, code incomplete ...
 
 Note: You will have to build the jmeter maven artifacts yourself atm.
-I'm going to add a script for this when I find the time ...
-See maven-jmeter dir for some example poms to use on JMeter.
+Use maven-jmeter/mavenJunit.sh to build the required JMeter maven artifacts.
 
 maven-jmeter/notes.txt <-- read this, if you have trouble building!
 

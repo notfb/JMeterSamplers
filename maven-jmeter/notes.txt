@@ -35,26 +35,26 @@ BUILD SUCCESSFUL
 Total time: 18 seconds
 
 # install jars into local repo:
-# Let's say ~/github/JMeterSamplers is the place where the JMeterSamplers project lives, replace as needed ...
+
 $ mvn install:install-file -Dfile=lib/ext/ApacheJMeter_core.jar \
-    -DpomFile=~/github/JMeterSamplers/maven-jmeter/ApacheJMeter_core-2.3.2.pom -Dpackaging=jar \
+    -DpomFile=../ApacheJMeter_core-2.3.2.pom -Dpackaging=jar \
     -DgroupId=org.apache.jmeter -DartifactId=ApacheJMeter_core -Dversion=2.3.2
 
 $ mvn install:install-file -Dfile=lib/ext/ApacheJMeter_components.jar \
-    -DpomFile=~/github/JMeterSamplers/maven-jmeter/ApacheJMeter_components-2.3.2.pom -Dpackaging=jar \
+    -DpomFile=../ApacheJMeter_components-2.3.2.pom -Dpackaging=jar \
     -DgroupId=org.apache.jmeter -DartifactId=ApacheJMeter_components -Dversion=2.3.2
 
 $ mvn install:install-file -Dfile=lib/ext/ApacheJMeter_java.jar \
-    -DpomFile=~/github/JMeterSamplers/maven-jmeter/ApacheJMeter_java-2.3.2.pom -Dpackaging=jar \ 
+    -DpomFile=../ApacheJMeter_java-2.3.2.pom -Dpackaging=jar \
     -DgroupId=org.apache.jmeter -DartifactId=ApacheJMeter_java -Dversion=2.3.2
 
 $ mvn install:install-file -Dfile=lib/ext/ApacheJMeter_junit.jar \
-    -DpomFile=~/github/JMeterSamplers/maven-jmeter/ApacheJMeter_junit-2.3.2.pom -Dpackaging=jar \
+    -DpomFile=../ApacheJMeter_junit-2.3.2.pom -Dpackaging=jar \
     -DgroupId=org.apache.jmeter -DartifactId=ApacheJMeter_junit -Dversion=2.3.2
 
 # Note: use the jorhan.jar from jmeter!
 
 $ mvn install:install-file -Dfile=lib/jorphan.jar \
-    -DpomFile=~/github/JMeterSamplers/maven-jmeter/jorphan-2.3.2.pom -Dpackaging=jar \
+    -DpomFile=../jorphan-2.3.2.pom -Dpackaging=jar \
     -DgroupId=org.apache.jmeter -DartifactId=jorphan -Dversion=2.3.2
 

@@ -1,10 +1,10 @@
-TODO: write script to generate jmeter maven artifacts
-
 TODO: use jmeter 2.3.4
 
 TODO: update junit dep
 
 TODO: update maven plugin versions etc.
+
+TODO: setup public maven repo
 
 TODO: execute one test method only (atm only complete classes)
 
